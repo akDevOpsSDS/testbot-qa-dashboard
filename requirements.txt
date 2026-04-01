@@ -1,2 +1,5 @@
-streamlit
-pandas
+streamlit==1.42.0
+openai==1.61.0
+Pillow==11.0.0
+python-dotenv==1.0.1
+zipfile36==0.1.3
